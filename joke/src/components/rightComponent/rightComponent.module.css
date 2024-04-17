@@ -1,5 +1,5 @@
 .rightAside{
     width:808px;
-    height: 580px;
+    height: 560px !important;
     overflow-y: auto;
 }
