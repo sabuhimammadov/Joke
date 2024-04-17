@@ -13,7 +13,7 @@
 }
 .jokeBtn{
     padding: 12px;
-    width: 120px;
+    width: 60px;
     height: 38px;
     font-size: 16px;
     background-color: rgb(236, 236, 100);
@@ -22,6 +22,14 @@
     padding: 8px;
     border: none;
     color: #a02525;
+}
+.jokeBtn1{
+    width: 60px;
+    height: 38px;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+font-weight: 800;
 }
 .randomJoke{
     height: 40px;
